@@ -1,5 +1,5 @@
 <h1 align="center">
-    IF Banking
+    IF Bank
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@ Tecnologias utilizadas:
 - [Git](https://git-scm.com/)
 
 ## 💻 Sobre
-Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre do IFSP.
+Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre do IFSP. O objetivo do nosso sistema é desenvolver uma interface bancária simples e intuitiva para os usuários. Dessa forma, eles poderão realizar saques, depósitos e transferências de forma rápida e fácil. 
     
 ## 🗺️ Diagramas  
 - Diagramas
