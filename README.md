@@ -40,12 +40,8 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
   - Diagrama de Contexto
     <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/diagrama_contexto.jpeg" width="500px;" alt="" style="border-radius:50%"/>
  
-## 👩🏻‍🏫 Professora
-Bianca Maria Pedrosa
-<br/>
-<img src="https://suap.ifsp.edu.br/media/fotos/75x100/1302.jpg" width="100px;" alt="" style="border-radius:50%"/>  
-  
-## 👨🏽‍🎓 Alunos
+
+## 👨🏽‍🎓 Integrantes
 <table>
 <tr>
     <td>  
