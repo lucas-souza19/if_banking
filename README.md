@@ -34,11 +34,11 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
 ## 🗺️ Diagramas  
 - Diagramas
   - Casos de Uso
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF%20Banking%20Casos%20de%20Uso.png" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF_banking_casos_.png" width="500px;" alt="" style="border-radius:50%"/>
   - Diagrama de Classes
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF%20Banking.png" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF_banking.png" width="500px;" alt="" style="border-radius:50%"/>
   - Diagrama de Contexto
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/diagrama_contexto.jpg" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/diagrama_contexto.jpeg" width="500px;" alt="" style="border-radius:50%"/>
  
 ## 👩🏻‍🏫 Professora
 Bianca Maria Pedrosa
