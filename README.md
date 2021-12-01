@@ -26,6 +26,8 @@ Tecnologias utilizadas:
 - [VS Code](https://code.visualstudio.com/)
 - [Eclipse](https://www.eclipse.org/)
 - [Git](https://git-scm.com/)
+- [Hibernate](https://hibernate.org/)
+- [Vraptor](https://www.vraptor.org/pt/)
 
 ## 💻 Sobre
 Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre do IFSP. O objetivo do nosso sistema é desenvolver uma interface bancária simples e intuitiva para os usuários. Dessa forma, eles poderão realizar saques, depósitos e transferências de forma rápida e fácil. 
@@ -80,7 +82,6 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
     Padrões de Arquiteturais
 </h3>
 <ul>
-  <li>SOLID</li>
   <li>MVC</li>
   <li>DAO</li>
 </ul>
